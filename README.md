@@ -1,1 +1,3 @@
-this is a learning file. I am trying to practice git again
+this is a learning file. 
+<br>
+I am trying to practice git again --author by Chandan Saha
